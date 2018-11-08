@@ -9,4 +9,3 @@ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 
 /bin/cp ./.tmux.conf ~/
 /bin/cp ./.vimrc ~/
-/bin/cp ./.zshrc ~/
