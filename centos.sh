@@ -1,4 +1,4 @@
-sudo -s 
+sudo -s
 yum -y update
 yum -y install vim tmux zsh powerline git
 curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | sh
