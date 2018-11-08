@@ -5,7 +5,7 @@ filetype off                  " required
 set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#begin()
 
-# https://bluesh55.github.io/2016/10/09/vim-ide/ Tutorial
+" https://bluesh55.github.io/2016/10/09/vim-ide/ Tutorial
 
 " let Vundle manage Vundle, required
 Plugin 'VundleVim/Vundle.vim'
@@ -34,4 +34,3 @@ noremap <C-l> <C-w>l
 
 nnoremap <C-F> :NERDTreeFind<CR>
 nnoremap <Leader>n :NERDTreeToggle<CR>
-                                                                
